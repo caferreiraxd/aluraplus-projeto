@@ -1,5 +1,5 @@
 
-#✨ Alura+ ✨
+## ✨ Alura+ ✨
 
 O projeto Alura+ teve por objetivo ser um exercicio de fixação dos conteúdo estudado durante o curso de HTML e CSS3 da plataforma Alura.
 
